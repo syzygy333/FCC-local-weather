@@ -17,3 +17,11 @@ h1 {
 i {
     font-family: weather;
 }
+
+.text-button {
+  background: none;
+  border: none;
+  color: #337ab7;
+  margin: 0;
+  padding: 0;
+}
